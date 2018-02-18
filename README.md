@@ -4,12 +4,12 @@ Filter and sort objects
 
 ## Installation
 ```shell
-npm install funneljs
+npm install funnel.js
 ```
 
 ## How to use
 ```js
-const Funnel = require('funneljs')
+const Funnel = require('funnel.js')
 
 // Create the funneljs object
 let funnel = new Funnel()
