@@ -1,0 +1,16 @@
+{
+  "name": "funnel.js",
+  "version": "1.0.0",
+  "description": "Filter and sort objects",
+  "main": "src/funnel.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mirkoferraro/funnel.js"
+  },
+  "author": "Mirko Ferraro",
+  "homepage": "https://github.com/mirkoferraro/funnel.js",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mirkoferraro/funnel.js/issues"
+  }
+}
